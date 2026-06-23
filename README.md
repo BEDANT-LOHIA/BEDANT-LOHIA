@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bedant Lohia 👋
 
-<!--
-**BEDANT-LOHIA/BEDANT-LOHIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student at NIT Silchar
 
-Here are some ideas to get you started:
+💻 Learning Data Structures & Algorithms in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Preparing for Software Engineering Internships and Placements
+
+## Current Focus
+- DSA (Striver Sheet + LeetCode)
+- SQL
+- CS Fundamentals
+
+## Profiles
+- LeetCode: 
+- LinkedIn: 
+
+⭐ Consistency > Intensity
