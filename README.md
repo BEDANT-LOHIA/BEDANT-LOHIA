@@ -16,3 +16,6 @@
 - LinkedIn: https://www.linkedin.com/in/bedant-lohia-5190b8327/
   
 ⭐ Consistency > Intensity
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bedant-lohia?theme=dark&font=Karma)
