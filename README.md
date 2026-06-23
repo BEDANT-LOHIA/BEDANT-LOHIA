@@ -22,3 +22,6 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEDANT-LOHIA&show_icons=true)
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BEDANT-LOHIA)
