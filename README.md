@@ -1,4 +1,5 @@
-# Hi, I'm Bedant Lohia 👋
+<h1 align="center">Hi 👋, I'm Bedant Lohia</h1>
+<h3 align="center">Electrical Engineering Student at NIT Silchar | DSA Enthusiast | Aspiring Software Engineer</h3>
 
 🎓 Electrical Engineering Student at NIT Silchar
 
