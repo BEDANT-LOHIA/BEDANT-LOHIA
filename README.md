@@ -19,3 +19,6 @@
 ## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bedant-lohia?theme=dark&font=Karma)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEDANT-LOHIA&show_icons=true)
